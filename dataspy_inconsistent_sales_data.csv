@@ -1,0 +1,101 @@
+Invoice_Date,Product,Region,Revenue,Quantity,Order_ID,Delivery_Date,Status,Stock
+2025-04-01,Product_A,Nashik,12000,5,ORD001,2025-04-05,Delivered,40
+2025-04-03,Product_B,Pune,18000,8,ORD002,2025-04-08,Delivered,55
+2025-04-07,Product_C,Mumbai,9500,3,ORD003,2025-04-15,Delivered,30
+2025-04-10,Product_D,Nagpur,22000,10,ORD004,2025-04-18,In Process,60
+2025-04-15,Product_E,Aurangabad,15000,6,ORD005,2025-04-25,Delivered,45
+2025-04-02,Product_F,Solapur,13000,5,ORD006,2025-04-12,Delayed,35
+2025-04-20,Product_G,Kolhapur,20000,9,ORD007,2025-04-30,In Process,50
+2025-04-25,Product_H,Amravati,11000,4,ORD008,2025-05-02,Delivered,25
+2025-04-12,Product_I,Satara,17000,7,ORD009,2025-04-20,Delayed,40
+2025-04-18,Product_J,Thane,21000,9,ORD010,2025-04-28,Delivered,55
+2025-04-01,Product_A,Nashik,12200,5,ORD011,2025-04-05,Delivered,41
+2025-04-03,Product_B,Pune,18200,8,ORD012,2025-04-08,Delivered,56
+2025-04-07,Product_C,Mumbai,9700,3,ORD013,2025-04-15,Delivered,31
+2025-04-10,Product_D,Nagpur,22200,10,ORD014,2025-04-18,In Process,61
+2025-04-15,Product_E,Aurangabad,15200,6,ORD015,2025-04-25,Delivered,46
+2025-04-02,Product_F,Solapur,13200,5,ORD016,2025-04-12,Delayed,36
+2025-04-20,Product_G,Kolhapur,20200,9,ORD017,2025-04-30,In Process,51
+2025-04-25,Product_H,Amravati,11200,4,ORD018,2025-05-02,Delivered,26
+2025-04-12,Product_I,Satara,17200,7,ORD019,2025-04-20,Delayed,41
+2025-04-18,Product_J,Thane,21200,9,ORD020,2025-04-28,Delivered,56
+2025-04-01,Product_A,Nashik,12400,5,ORD021,2025-04-05,Delivered,42
+2025-04-03,Product_B,Pune,18400,8,ORD022,2025-04-08,Delivered,57
+2025-04-07,Product_C,Mumbai,9900,3,ORD023,2025-04-15,Delivered,32
+2025-04-10,Product_D,Nagpur,22400,10,ORD024,2025-04-18,In Process,62
+2025-04-15,Product_E,Aurangabad,15400,6,ORD025,2025-04-25,Delivered,47
+2025-04-02,Product_F,Solapur,13400,5,ORD026,2025-04-12,Delayed,37
+2025-04-20,Product_G,Kolhapur,20400,9,ORD027,2025-04-30,In Process,52
+2025-04-25,Product_H,Amravati,11400,4,ORD028,2025-05-02,Delivered,27
+2025-04-12,Product_I,Satara,17400,7,ORD029,2025-04-20,Delayed,42
+2025-04-18,Product_J,Thane,21400,9,ORD030,2025-04-28,Delivered,57
+2025-04-01,Product_A,Nashik,12600,5,ORD031,2025-04-05,Delivered,43
+2025-04-03,Product_B,Pune,18600,8,ORD032,2025-04-08,Delivered,58
+2025-04-07,Product_C,Mumbai,10100,3,ORD033,2025-04-15,Delivered,33
+2025-04-10,Product_D,Nagpur,22600,10,ORD034,2025-04-18,In Process,63
+2025-04-15,Product_E,Aurangabad,15600,6,ORD035,2025-04-25,Delivered,48
+2025-04-02,Product_F,Solapur,13600,5,ORD036,2025-04-12,Delayed,38
+2025-04-20,Product_G,Kolhapur,20600,9,ORD037,2025-04-30,In Process,53
+2025-04-25,Product_H,Amravati,11600,4,ORD038,2025-05-02,Delivered,28
+2025-04-12,Product_I,Satara,17600,7,ORD039,2025-04-20,Delayed,43
+2025-04-18,Product_J,Thane,21600,9,ORD040,2025-04-28,Delivered,58
+2025-04-01,Product_A,Nashik,12800,5,ORD041,2025-04-05,Delivered,44
+2025-04-03,Product_B,Pune,18800,8,ORD042,2025-04-08,Delivered,59
+2025-04-07,Product_C,Mumbai,10300,3,ORD043,2025-04-15,Delivered,34
+2025-04-10,Product_D,Nagpur,22800,10,ORD044,2025-04-18,In Process,64
+2025-04-15,Product_E,Aurangabad,15800,6,ORD045,2025-04-25,Delivered,49
+2025-04-02,Product_F,Solapur,13800,5,ORD046,2025-04-12,Delayed,39
+2025-04-20,Product_G,Kolhapur,20800,9,ORD047,2025-04-30,In Process,54
+2025-04-25,Product_H,Amravati,11800,4,ORD048,2025-05-02,Delivered,29
+2025-04-12,Product_I,Satara,17800,7,ORD049,2025-04-20,Delayed,44
+2025-04-18,Product_J,Thane,21800,9,ORD050,2025-04-28,Delivered,59
+2025-04-01,Product_A,Nashik,13000,5,ORD051,2025-04-05,Delivered,45
+2025-04-03,Product_B,Pune,19000,8,ORD052,2025-04-08,Delivered,60
+2025-04-07,Product_C,Mumbai,10500,3,ORD053,2025-04-15,Delivered,35
+2025-04-10,Product_D,Nagpur,23000,10,ORD054,2025-04-18,In Process,65
+2025-04-15,Product_E,Aurangabad,16000,6,ORD055,2025-04-25,Delivered,50
+2025-04-02,Product_F,Solapur,14000,5,ORD056,2025-04-12,Delayed,40
+2025-04-20,Product_G,Kolhapur,21000,9,ORD057,2025-04-30,In Process,55
+2025-04-25,Product_H,Amravati,12000,4,ORD058,2025-05-02,Delivered,30
+2025-04-12,Product_I,Satara,18000,7,ORD059,2025-04-20,Delayed,45
+2025-04-18,Product_J,Thane,22000,9,ORD060,2025-04-28,Delivered,60
+2025-04-01,Product_A,Nashik,13200,5,ORD061,2025-04-05,Delivered,46
+2025-04-03,Product_B,Pune,19200,8,ORD062,2025-04-08,Delivered,61
+2025-04-07,Product_C,Mumbai,10700,3,ORD063,2025-04-15,Delivered,36
+2025-04-10,Product_D,Nagpur,23200,10,ORD064,2025-04-18,In Process,66
+2025-04-15,Product_E,Aurangabad,16200,6,ORD065,2025-04-25,Delivered,51
+2025-04-02,Product_F,Solapur,14200,5,ORD066,2025-04-12,Delayed,41
+2025-04-20,Product_G,Kolhapur,21200,9,ORD067,2025-04-30,In Process,56
+2025-04-25,Product_H,Amravati,12200,4,ORD068,2025-05-02,Delivered,31
+2025-04-12,Product_I,Satara,18200,7,ORD069,2025-04-20,Delayed,46
+2025-04-18,Product_J,Thane,22200,9,ORD070,2025-04-28,Delivered,61
+2025-04-01,Product_A,Nashik,13400,5,ORD071,2025-04-05,Delivered,47
+2025-04-03,Product_B,Pune,19400,8,ORD072,2025-04-08,Delivered,62
+2025-04-07,Product_C,Mumbai,10900,3,ORD073,2025-04-15,Delivered,37
+2025-04-10,Product_D,Nagpur,23400,10,ORD074,2025-04-18,In Process,67
+2025-04-15,Product_E,Aurangabad,16400,6,ORD075,2025-04-25,Delivered,52
+2025-04-02,Product_F,Solapur,14400,5,ORD076,2025-04-12,Delayed,42
+2025-04-20,Product_G,Kolhapur,21400,9,ORD077,2025-04-30,In Process,57
+2025-04-25,Product_H,Amravati,12400,4,ORD078,2025-05-02,Delivered,32
+2025-04-12,Product_I,Satara,18400,7,ORD079,2025-04-20,Delayed,47
+2025-04-18,Product_J,Thane,22400,9,ORD080,2025-04-28,Delivered,62
+2025-04-01,Product_A,Nashik,13600,5,ORD081,2025-04-05,Delivered,48
+2025-04-03,Product_B,Pune,19600,8,ORD082,2025-04-08,Delivered,63
+2025-04-07,Product_C,Mumbai,11100,3,ORD083,2025-04-15,Delivered,38
+2025-04-10,Product_D,Nagpur,23600,10,ORD084,2025-04-18,In Process,68
+2025-04-15,Product_E,Aurangabad,16600,6,ORD085,2025-04-25,Delivered,53
+2025-04-02,Product_F,Solapur,14600,5,ORD086,2025-04-12,Delayed,43
+2025-04-20,Product_G,Kolhapur,21600,9,ORD087,2025-04-30,In Process,58
+2025-04-25,Product_H,Amravati,12600,4,ORD088,2025-05-02,Delivered,33
+2025-04-12,Product_I,Satara,18600,7,ORD089,2025-04-20,Delayed,48
+2025-04-18,Product_J,Thane,22600,9,ORD090,2025-04-28,Delivered,63
+2025-04-01,Product_A,Nashik,13800,5,ORD091,2025-04-05,Delivered,49
+2025-04-03,Product_B,Pune,19800,8,ORD092,2025-04-08,Delivered,64
+2025-04-07,Product_C,Mumbai,11300,3,ORD093,2025-04-15,Delivered,39
+2025-04-10,Product_D,Nagpur,23800,10,ORD094,2025-04-18,In Process,69
+2025-04-15,Product_E,Aurangabad,16800,6,ORD095,2025-04-25,Delivered,54
+2025-04-02,Product_F,Solapur,14800,5,ORD096,2025-04-12,Delayed,44
+2025-04-20,Product_G,Kolhapur,21800,9,ORD097,2025-04-30,In Process,59
+2025-04-25,Product_H,Amravati,12800,4,ORD098,2025-05-02,Delivered,34
+2025-04-12,Product_I,Satara,18800,7,ORD099,2025-04-20,Delayed,49
+2025-04-18,Product_J,Thane,22800,9,ORD100,2025-04-28,Delivered,64
