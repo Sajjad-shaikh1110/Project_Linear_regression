@@ -1,5 +1,6 @@
 ## Project_Linear_regression
-#Sales Revenue Prediction
+**Sales Revenue Prediction**
+
 Project Summary:Project: Sales Revenue Prediction
 
 Dataset: dataspy_inconsistent_sales_data.csv (sales records: Invoice_Date, Product, Region, Quantity, Stock, Revenue, etc.)
